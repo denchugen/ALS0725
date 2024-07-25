@@ -1,4 +1,19 @@
 # ALS0725
+#07252100
+[1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH13_read_DMN.R"
+![image](https://github.com/user-attachments/assets/6c40320b-7591-42a7-921a-8250ef0cade9)
+![image](https://github.com/user-attachments/assets/209c422c-46d8-4dc0-99ae-05d7a9c8061b)
+
+
+
+
+
+
+
+
+
+
+---
 ![image](https://github.com/user-attachments/assets/6f1098da-25b2-48d7-ac23-1aa7274974a8)
 
 ## ATAC SAR4003AM 
