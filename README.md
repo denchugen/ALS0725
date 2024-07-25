@@ -28,3 +28,12 @@
 
 ## recluster 11,13,22
 ![image](https://github.com/user-attachments/assets/5e0a7721-0dbe-44ae-9875-39fa899fb701)
+
+### 240604： 把cluster15和25的ATAC取下来，peak各自单独做cluster，看看能否分出单独的类
+![image](https://github.com/user-attachments/assets/a69ee97a-3f97-40c0-ab0b-f23fdccba872)
+
+## 
+![image](https://github.com/user-attachments/assets/90b8560a-cebd-4a96-a9d4-6f8bf1110cd7)
+![image](https://github.com/user-attachments/assets/cde5b60a-85c3-4d8e-8240-f47dcb0cd67c)
+![image](https://github.com/user-attachments/assets/72a2d7f4-f5d7-4e51-a576-10908f88498f)
+![image](https://github.com/user-attachments/assets/b65894e4-68df-445e-ab68-6b391b0ac9b2)
