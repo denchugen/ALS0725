@@ -1,17 +1,15 @@
 # ALS0725
+![63561721965883_ pic](https://github.com/user-attachments/assets/01d3df49-7c0c-4053-8e9f-fa85bca52f69)
+
+/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH043_point_11.R
+/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH044_point_13.R
+/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH045_point_22.R
+
+
 #07252100
 [1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH13_read_DMN.R"
 ![image](https://github.com/user-attachments/assets/6c40320b-7591-42a7-921a-8250ef0cade9)
 ![image](https://github.com/user-attachments/assets/209c422c-46d8-4dc0-99ae-05d7a9c8061b)
-
-
-
-
-
-
-
-
-
 
 ---
 ![image](https://github.com/user-attachments/assets/6f1098da-25b2-48d7-ac23-1aa7274974a8)
