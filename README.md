@@ -4,6 +4,7 @@
 /Volumes/TOSHIBA/ALS/RAW_MOUSE/SH043_point_11.R
 /Volumes/TOSHIBA/ALS/RAW_MOUSE/SH044_point_13.R
 /Volumes/TOSHIBA/ALS/RAW_MOUSE/SH045_point_22.R
+![image](https://github.com/user-attachments/assets/e565132b-15f0-4ec5-bc85-8a6aac7a78fb)
 
 
 #07252100
