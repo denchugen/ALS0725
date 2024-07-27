@@ -1,4 +1,12 @@
 # ALS0727
+#### [1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/A240727_TOP50_GO_in112213/SH03_GO_PLOT.R"
+![image](https://github.com/user-attachments/assets/3d9904f3-7df2-45aa-a973-ec6d248b7a70)
+
+
+
+
+
+
 [1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH49B_merge_INTRACTION_2_ATAC_BOX.R"
 ![image](https://github.com/user-attachments/assets/e0a25f0f-4580-42bb-aa9d-0975835c24b6)
 ![image](https://github.com/user-attachments/assets/ae8dc1cb-a6b1-438c-808a-6b99d9d6d2e0)
