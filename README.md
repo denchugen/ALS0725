@@ -1,7 +1,14 @@
 # ALS0727
+[1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH49B_merge_INTRACTION_2_ATAC_BOX.R"
+![image](https://github.com/user-attachments/assets/e0a25f0f-4580-42bb-aa9d-0975835c24b6)
+![image](https://github.com/user-attachments/assets/ae8dc1cb-a6b1-438c-808a-6b99d9d6d2e0)
+
+
+
+
+###  [1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH49_merge_INTRACTION_2_ATAC.R"
 
 ![image](https://github.com/user-attachments/assets/ee200a8a-7536-4614-b12a-c687c731a6ef)
- [1] "/Volumes/TOSHIBA/ALS/RAW_MOUSE/SH49_merge_INTRACTION_2_ATAC.R"
 
 
 
